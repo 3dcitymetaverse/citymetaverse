@@ -1,7 +1,7 @@
 3d.city v 0.8.0
 =======
 
-3d city builder [LAUNCH]([http://lo-th.github.io/3d.city/index.html](https://github.com/3dcitymetaverse/citymetaverse))<br>
+3d city builder [LAUNCH](https://github.com/3dcitymetaverse/citymetaverse)<br>
 
 The goal is create 3d city builder to test performance for three.js webgl games<br>
 With minimum size impact and maximum speed.<br>
